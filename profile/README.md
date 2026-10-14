@@ -93,6 +93,18 @@
         <b>안재민</b><br /><sub>@Mercel4</sub>
       </a>
     </td>
+    <td align="center" width="120">
+      <a href="https://github.com/abcb-s">
+        <img src="https://github.com/abcb-s.png" width="80" height="80" alt="abcb-s" /><br />
+        <b>김준현</b><br /><sub>@abcb-s</sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/L98293">
+        <img src="https://github.com/L98293.png" width="80" height="80" alt="L98293" /><br />
+        <b>김경윤</b><br /><sub>@L98293</sub>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -109,7 +121,7 @@
     <td align="center" width="120">
       <a href="https://github.com/gnlandkmg">
         <img src="https://github.com/gnlandkmg.png" width="80" height="80" alt="gnlandkmg" /><br />
-        <b>@gnlandkmg</b>
+        <b>권민기</b><br /><sub>@gnlandkmg</sub>
       </a>
     </td>
     <td align="center" width="120">
@@ -138,12 +150,6 @@
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <a href="https://github.com/16bit-16">
-        <img src="https://github.com/16bit-16.png" width="80" height="80" alt="16bit-16" /><br />
-        <b>이도건</b><br /><sub>@16bit-16</sub>
-      </a>
-    </td>
     <td align="center" width="120">
       <a href="https://github.com/Ze-rith">
         <img src="https://github.com/Ze-rith.png" width="80" height="80" alt="Ze-rith" /><br />
