@@ -79,21 +79,79 @@
 
 **Web**
 
-<a href="https://github.com/twenty-threeD/23D-Web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=twenty-threeD/23D-Web" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/16bit-16">
+        <img src="https://github.com/16bit-16.png" width="80" height="80" alt="16bit-16" /><br />
+        <b>이도건</b><br /><sub>@16bit-16</sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/Mercel4">
+        <img src="https://github.com/Mercel4.png" width="80" height="80" alt="Mercel4" /><br />
+        <b>안재민</b><br /><sub>@Mercel4</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 **Server**
 
-<a href="https://github.com/twenty-threeD/23D-Spring-Server-Layered/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=twenty-threeD/23D-Spring-Server-Layered" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/abcb-s">
+        <img src="https://github.com/abcb-s.png" width="80" height="80" alt="abcb-s" /><br />
+        <b>김준현</b><br /><sub>@abcb-s</sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/gnlandkmg">
+        <img src="https://github.com/gnlandkmg.png" width="80" height="80" alt="gnlandkmg" /><br />
+        <b>@gnlandkmg</b>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/L98293">
+        <img src="https://github.com/L98293.png" width="80" height="80" alt="L98293" /><br />
+        <b>김경윤</b><br /><sub>@L98293</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 **Blockchain**
 
-<a href="https://github.com/twenty-threeD/Itda-PoA-Network-Server/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=twenty-threeD/Itda-PoA-Network-Server" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/L98293">
+        <img src="https://github.com/L98293.png" width="80" height="80" alt="L98293" /><br />
+        <b>김경윤</b><br /><sub>@L98293</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+**Infra**
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/16bit-16">
+        <img src="https://github.com/16bit-16.png" width="80" height="80" alt="16bit-16" /><br />
+        <b>이도건</b><br /><sub>@16bit-16</sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/Ze-rith">
+        <img src="https://github.com/Ze-rith.png" width="80" height="80" alt="Ze-rith" /><br />
+        <b>김승우</b><br /><sub>@Ze-rith</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
