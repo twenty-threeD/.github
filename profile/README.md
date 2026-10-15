@@ -30,7 +30,6 @@
 
 - [23D-Web](https://github.com/twenty-threeD/23D-Web) — Next.js 기반 웹 클라이언트.
 - [23D-Spring-Server-Layered](https://github.com/twenty-threeD/23D-Spring-Server-Layered) — Spring Boot 기반 API 서버.
-- [23D-Spring-Server-MSA](https://github.com/twenty-threeD/23D-Spring-Server-MSA) — 마이크로서비스 구조의 API 서버.
 - [Itda-PoA-Network-Server](https://github.com/twenty-threeD/Itda-PoA-Network-Server) — 결제 기록을 저장하는 Cosmos SDK 기반 PoA 블록체인.
 
 ## Tech Stack
